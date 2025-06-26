@@ -1,0 +1,4 @@
+pattern readwrite #  
+user zidan  
+topic readwrite esp32/#  
+topic read $SYS/# 
