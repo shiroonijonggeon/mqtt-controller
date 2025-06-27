@@ -37,8 +37,8 @@
   <h2>🛠️ Cara Menjalankan</h2>
   <ol>
     <li>Clone project:
-      <pre><code>git clone https://github.com/Iniwizzy/monitoring_app.git
-cd monitoring_app</code></pre>
+      <pre><code>git clone https://github.com/shiroonijonggeon/mqtt-controller.git
+cd mqtt-controller</code></pre>
     </li>
     <li>Install dependencies:
       <pre><code>flutter pub get</code></pre>
@@ -55,8 +55,8 @@ cd monitoring_app</code></pre>
   <h2>🔐 Konfigurasi MQTT</h2>
   <p>Sesuaikan konfigurasi MQTT di form aplikasi atau langsung pada file konfigurasi:</p>
   <pre><code>String Broker = "192.168.1.24";
-String Username = "badawi";
-String Password = "********";</code></pre>
+String Username = "zidan";
+String Password = "*****";</code></pre>
 
   <hr>
 
