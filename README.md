@@ -16,10 +16,9 @@
   </ul>
 
   <hr>
-
   <h2>📱 Tampilan Antarmuka</h2>
   <p>Tampilan clean dan interaktif seperti di bawah ini:</p>
-  <img src=".\assets\screenshot\mqtt.jpeg" alt="Tampilan UI" style="max-width: 100%; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+  <img src="./assets/screenshot/mqtt.jpeg" alt="Tampilan UI" style="max-width: 100%; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
   <hr>
 
   <h2>⚙️ Teknologi</h2>
